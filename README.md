@@ -128,3 +128,9 @@ ImageForgeAI/
 ├── package.json # Dependencies and scripts
 ├── README.md # Project documentation
 └── .gitignore # Files to ignore in Git
+
+---
+## 💬 Contact
+**Developer:** Disha Sagar  
+**LinkedIn:** [linkedin.com/in/disha-s-988168273](https://www.linkedin.com/in/disha-s-988168273/)  
+**GitHub:** [github.com/disha1647](https://github.com/disha1647) 
