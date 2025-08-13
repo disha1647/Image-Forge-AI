@@ -115,3 +115,16 @@ Gemini API delivers **high-quality AI outputs**, supports **multi-modal inputs**
 ---
 
 ## 📂 Project Structure
+ImageForgeAI/
+│
+├── public/ # Static assets (icons, logos, styles)
+├── src/
+│ ├── components/ # React components
+│ ├── pages/ # Next.js pages and routes
+│ ├── styles/ # CSS and styling files
+│ ├── utils/ # Helper functions and API handlers
+│ └── firebase/ # Firebase config and services
+│
+├── package.json # Dependencies and scripts
+├── README.md # Project documentation
+└── .gitignore # Files to ignore in Git
